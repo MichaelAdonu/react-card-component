@@ -2,10 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const Card = (props) => {
-  const robertUrl =
-    "https://www.richdad.com/MediaLibrary/RichDad/Images/home/richdad-home-radio-square-01.jpg";
-  const robertUrl1 =
-    "https://miro.medium.com/v2/resize:fit:1358/0*76OmPaOr7EfnSjXy";
   return (
     <div className="card">
       <img
